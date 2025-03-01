@@ -1,0 +1,16 @@
+bind ^c cut main
+bind ^s mark main
+bind M-j left main
+bind M-k down main
+bind M-l right main
+bind M-i up main
+bind Sh-M-j prevword main
+bind Sh-M-k pagedown main
+bind Sh-M-l nextword main
+bind Sh-M-i pageup main
+set linenumbers
+set tabsize 2
+set numbercolor yellow,blue
+set titlecolor yellow,blue
+set keycolor yellow,blue
+set statuscolor yellow,blue
